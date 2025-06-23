@@ -1,6 +1,7 @@
 mountpoints:
   /:
-    url: https://content.da.live/sachin-limaja-cognizant/adobe-optimizer-demo/
+    #url: https://content.da.live/sachin-limaja-cognizant/adobe-optimizer-demo/
+    url: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
     type: markup
 
 folders:
