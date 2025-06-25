@@ -1,7 +1,6 @@
 const config = {
   project: 'My Project',
   editUrlLabel: 'Document Authoring',
-  editUrlPattern: 'https://da.live/edit#/sachin-limaja-cognizant/adobe-optimizer-demo/'
+  editUrlPattern: 'https://da.live/edit#/sachin-limaja-cognizant/adobe-optimizer-demo/',
 };
 export default config;
-  
