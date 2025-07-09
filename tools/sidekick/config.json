@@ -1,7 +1,7 @@
 {
   "project": "Boilerplate",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/sachin-limaja-cognizant/adobe-optimizer-demo/{{pathname}}",
+  "editUrlPattern": "https://da.live/edit#/sachin-limaja-cognizant/adobe-optimizer-demo{{pathname}}",
   "plugins": [
     {
       "id": "cif",
